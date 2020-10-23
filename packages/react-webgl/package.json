@@ -17,7 +17,7 @@
     "README.md"
   ],
   "dependencies": {
-    "react-reconciler": "0.20.4",
+    "react-reconciler": "0.26.1",
     "webgl-ui": "~0.3.0",
     "webgl-ui-system-font": "~0.3.0"
   },
